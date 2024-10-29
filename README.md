@@ -25,10 +25,7 @@ Setup: Popular_Baby_Names.csv
 use this data file for your project
 
 
-![image](https://github.com/user-attachments/assets/aa7929d5-9af2-4535-9a1f-1c9de686707f)         ![image](https://github.com/user-attachments/assets/b97c4af1-7bb8-4a2f-bb29-25e8b711bcac)
-
-
-                                                                                                   ![image](https://github.com/user-attachments/assets/a29ced8b-f0b0-41f0-aaf4-4832a2e239cd)
+![image](https://github.com/user-attachments/assets/aa7929d5-9af2-4535-9a1f-1c9de686707f)         ![image](https://github.com/user-attachments/assets/cc654d7c-7513-4788-abd4-714a7004ca20)
 
 
 
