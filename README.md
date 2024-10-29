@@ -1,4 +1,5 @@
 # Pagination
+
 Resources
 Read or watch:
 
@@ -25,7 +26,5 @@ Setup: Popular_Baby_Names.csv
 use this data file for your project
 
 
-![image](https://github.com/user-attachments/assets/aa7929d5-9af2-4535-9a1f-1c9de686707f)         ![image](https://github.com/user-attachments/assets/cc654d7c-7513-4788-abd4-714a7004ca20)
-
-
+![image](https://github.com/user-attachments/assets/62435987-5422-42d3-8f3e-b6a0bc494731)       ![image](https://github.com/user-attachments/assets/9c6f350f-d397-4c13-8880-cd9ddd48ac81)
 
