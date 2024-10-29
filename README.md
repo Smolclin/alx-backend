@@ -25,4 +25,4 @@ Setup: Popular_Baby_Names.csv
 use this data file for your project
 
 
-https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/3646eb02de6527ca5d83.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241029%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241029T051821Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2830b27e55968a15fefd3ab0c5dc85470fa6a6954d5fcabb692d2d8f313ac0bd
+![image](https://github.com/user-attachments/assets/aa7929d5-9af2-4535-9a1f-1c9de686707f)
